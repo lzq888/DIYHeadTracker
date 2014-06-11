@@ -1,0 +1,21 @@
+1,04 : FW Version
+75 : LPTiltRoll
+75 : LPPan
+98 : GyroWeightTiltRoll
+98 : GyroWeightPan
+170 : ServoGainPan
+170 : ServoGainTilt
+170 : ServoGainRoll
+3 : ServoReverseMask
+1050 : PanCenter
+950 : PanMin
+2010 : PanMax
+1050 : TiltCenter
+950 : TiltMin
+2010 : TiltMax
+1050 : RollCenter
+950 : RollMin
+2010 : RollMax
+6 : PanCh
+7 : TiltCh
+8 : RollCh
